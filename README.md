@@ -35,3 +35,10 @@ me.say_hi()
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a href="https://www.centos.org/"><img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"></a>
 </div>
+
+### Hypervisors I use(d)
+<div>
+<a href="https://www.proxmox.com/en/"><img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"></a>
+<a href="https://www.vmware.com/products/esxi-and-esx.html"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"></a>
+</div>
+
