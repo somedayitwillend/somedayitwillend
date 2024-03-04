@@ -1,17 +1,27 @@
-![Header](./hussar-header-image.png)
-### < Welcome to my profile 👋 >
+![Header](./img/hussar-header-image.png)
+<h2> < Welcome to my profile 👋 > </h2>
+<p><em>DevOps Engineer at <a href="https://www.ehaz.hu/">eHÁZ</em></p>
+[![Linkedin: hussar](https://img.shields.io/badge/-hussar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bence-huszar-130b9227a/)](https://www.linkedin.com/in/bence-huszar-130b9227a/)
 
-<!--
-**somedayitwillend/somedayitwillend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class DevOpsEngineer:
+
+    def __init__(self):
+        self.name = "Huszár Bence"
+        self.role = "DevOps Engineer"
+        self.language_spoken = ["hu_HU", "en_US"]
+        self.programming = ["Python", "PHP", "C#", "jQuery", "HTML", "CSS", "JS", "AJAX"]
+        self.devOps = ["AWS", "Docker🐳", "Nginx"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = DevOpsEngineer()
+me.say_hi()
+```
