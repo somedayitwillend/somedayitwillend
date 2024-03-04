@@ -3,6 +3,7 @@
 <p><em>DevOps Engineer at <a href="https://www.ehaz.hu/">eHÁZ</em></p>
 
 [![Linkedin: hussar](https://img.shields.io/badge/-hussar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bence-huszar-130b9227a/)](https://www.linkedin.com/in/bence-huszar-130b9227a/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ### About me
 ```python
@@ -29,8 +30,8 @@ me.say_hi()
 
 ### Operating systems currently in prod
 <div>
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
+<a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+<a href="https://www.microsoft.com/en-us/windows/?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a href="https://www.centos.org/"><img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"></a>
 </div>
