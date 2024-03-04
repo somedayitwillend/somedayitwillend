@@ -1,8 +1,8 @@
 ![Header](./img/hussar-header-image.png)
 <h2> < Welcome to my profile 👋 /> </h2>
 <p><em>DevOps Engineer at <a href="https://www.ehaz.hu/">eHÁZ</em></p>
-    
-<img src="https://img.shields.io/badge/-hussar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bence-huszar-130b9227a/"> 
+
+![Linkedin: hussar](https://img.shields.io/badge/-hussar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bence-huszar-130b9227a/)
 
 ### About me
 ```python
