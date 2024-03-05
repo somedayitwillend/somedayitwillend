@@ -42,3 +42,6 @@ me.say_hi()
 <a href="https://www.vmware.com/products/esxi-and-esx.html"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"></a>
 </div>
 
+#### Current hyprland config on arch
+<p><a href="https://github.com/prasanthrangan/hyprdots">Hyprdots</a>, huge thank to <a href="https://github.com/prasanthrangan">prasantrangan</a> and the <a href="https://github.com/prasanthrangan/hyprdots/graphs/contributors">community</a> for these amazing dotfiles.</p>
+Show them some love and star their repo 🖤
